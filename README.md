@@ -1,6 +1,6 @@
-# Project Name
+# FCC TRIBUTE PAGE
 
-> One paragraph statement about the project.
+> A tribute page is a require project to earn a certificate.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,14 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 element
+  `h1`, `p`, `img`, `h2`, `h3`, `section`, `ul`
+  `strong`, `li`, `figcaption`,`blockquote`
+
+- CSS properties
+  `#img-div`, `figure`,
+  `display`, `margin`, `font-size`, `display`,
+  `block`
 
 ## Live Demo
 
@@ -21,7 +26,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:olayinka-oladele/10-fcc-tribute-page.git
 
 ```
 
@@ -65,14 +70,13 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,9 +90,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- freecodecamp
 
 ## 📝 License
 
