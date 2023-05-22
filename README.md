@@ -2,7 +2,7 @@
 
 > A tribute page is a require project to earn a certificate.
 
-![screenshot](./app_screenshort.png)
+![screenshot](app_screenshot.png)
 
 Additional description of the project and its features.
 
