@@ -19,7 +19,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://add-10-fcc-tribute-page.netlify.app/)
 
 ### Development (Running locally)
 
@@ -70,7 +70,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
